@@ -11,4 +11,4 @@ Iam Came From indonesia
 
 
 ## Support me on saweria
-[![Saweria](https://saweria.co/twitter_card.png)](https://1.bp.blogspot.com/-7OuHSxaNk6A/X92QPg8L9kI/AAAAAAAAG0E/lUzKf_uuVP8jCqvXpA7juh_l-TfK2jnbwCLcBGAsYHQ/s16000/SAWERIA.webp)
+[![Saweria](https://1.bp.blogspot.com/-7OuHSxaNk6A/X92QPg8L9kI/AAAAAAAAG0E/lUzKf_uuVP8jCqvXpA7juh_l-TfK2jnbwCLcBGAsYHQ/s16000/SAWERIA.webp)](saweria.co/MorenT)
