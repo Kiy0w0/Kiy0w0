@@ -11,11 +11,11 @@ Iam Came From indonesia
 
 
 ## Support me on saweria
-[![Saweria](https://1.bp.blogspot.com/-7OuHSxaNk6A/X92QPg8L9kI/AAAAAAAAG0E/lUzKf_uuVP8jCqvXpA7juh_l-TfK2jnbwCLcBGAsYHQ/s16000/SAWERIA.webp)](saweria.co/MorenT)
+[Saweria](saweria.co/MorenT)
 
 
 
 
 
 ## Support Gw juga di trakteer
-[![Saweria](https://cdn.trakteer.id/images/mix/navbar-logo.png)](https://trakteer.id/rentSquad)
+[Saweria](https://trakteer.id/rentSquad)
