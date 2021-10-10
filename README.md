@@ -13,6 +13,5 @@ Iam Came From indonesia
 ## Support me on saweria
 [Saweria](saweria.co/MorenT)
 
-Support Gw juga di trakteer
-
+## Support Gw juga di trakteer
 [Trakteer](https://trakteer.id/rentSquad)
