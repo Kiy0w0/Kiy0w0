@@ -25,3 +25,5 @@ Iam Came From indonesia
 
 ### Also Check My Replit For Fork it 🇮🇩
 [@CarameloSzy](https://repl.it/@Carameloszy)
+
+👋 Sayonaraa
