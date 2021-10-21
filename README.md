@@ -15,14 +15,12 @@ Iam Came From indonesia 🇮🇩
 
 ## Support me
 [Saweria](saweria.co/MorenT)
-
 [Trakteer](https://trakteer.id/rentSquad)
 
 ### Host Your Bot In Link Below ⬇️
 ### [24/7 Discord Bot hosting](https://szyhostinger.haseull.repl.co/)
 
-
 ### Also Check My Replit For Fork it 🇮🇩
 [@CarameloSzy](https://repl.it/@Carameloszy)
 
-👋 Sayonaraa
+
