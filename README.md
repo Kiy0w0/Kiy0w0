@@ -23,4 +23,4 @@ Iam Came From indonesia 🇮🇩
 ### Also Check My Replit For Fork it 🇮🇩
 [@CarameloSzy](https://repl.it/@Carameloszy)
 
-[!][A](https://cdn.discordapp.com/emojis/900685710653284352.gif?size=96)
+![Contoh](https://cdn.discordapp.com/emojis/900685710653284352.gif?size=96)
