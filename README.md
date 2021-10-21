@@ -19,4 +19,4 @@ Iam Came From indonesia
 ### Also Check My Replit For Fork it 🇮🇩
 [@CarameloSzy](https://repl.it/@Carameloszy)
 
-[![Jalankan Di Repl.it](https://www.vhv.rs/dpng/d/46-469052_loona-kpop-logo-png-transparent-png.png)](https://szyhostinger.haseull.repl.co/)
+[24/7 Discord Bot hosting](https://szyhostinger.haseull.repl.co/)
