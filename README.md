@@ -15,8 +15,8 @@ Iam Came From indonesia
 
 [Trakteer](https://trakteer.id/rentSquad)
 
+### [24/7 Discord Bot hosting](https://szyhostinger.haseull.repl.co/)
+
 
 ### Also Check My Replit For Fork it 🇮🇩
 [@CarameloSzy](https://repl.it/@Carameloszy)
-
-### [24/7 Discord Bot hosting](https://szyhostinger.haseull.repl.co/)
