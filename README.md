@@ -21,6 +21,6 @@ Iam Came From indonesia 🇮🇩
 ### [24/7 Discord Bot hosting](https://szyhostinger.haseull.repl.co/)
 
 ### Also Check My Replit For Fork it 🇮🇩
-[@CarameloSzy](https://repl.it/@Carameloszy)
+![Contoh](https://cdn.discordapp.com/emojis/889816549970558996.gif?size=96) [@CarameloSzy](https://repl.it/@Carameloszy)
 
-![Contoh](https://cdn.discordapp.com/emojis/900685710653284352.gif?size=96)
+
