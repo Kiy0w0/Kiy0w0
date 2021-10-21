@@ -15,7 +15,7 @@ Iam Came From indonesia
 
 [Trakteer](https://trakteer.id/rentSquad)
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+### Host Your Bot In Link Below ⬇️
 ### [24/7 Discord Bot hosting](https://szyhostinger.haseull.repl.co/)
 
 
