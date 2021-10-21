@@ -24,5 +24,6 @@ Iam Came From indonesia 🇮🇩
 
 [@CarameloSzy](https://repl.it/@Carameloszy)
 
+![Under](https://camo.githubusercontent.com/1b8919236911d9f053f772edb4c88fbae283a72f8c46845fac20702ee656bae3/687474703a2f2f7465787466696c65732e636f6d2f756e646572636f6e737472756374696f6e2f6d616d61676e6f6c69615f6163726573756e646572636f6e737472756374696f6e2e676966)
 
-![Under construction](https://cdn.discordapp.com/emojis/894089244140777523.gif?size=96)
+Under Construction :(
