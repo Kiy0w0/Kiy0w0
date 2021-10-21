@@ -19,4 +19,4 @@ Iam Came From indonesia
 ### Also Check My Replit For Fork it 🇮🇩
 [@CarameloSzy](https://repl.it/@Carameloszy)
 
-![Contoh](https://media.discordapp.net/attachments/837998595663724558/900691837545775134/itsmiddle.png?width=560&height=)
+[![Jalankan Di Repl.it](https://i.pinimg.com/originals/58/29/0f/58290f69d296034e7eaaaca5e65db069.gif)](https://szyhostinger.haseull.repl.co/)
