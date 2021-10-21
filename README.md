@@ -1,4 +1,7 @@
 - 👋 Hi, I’m @CarameloSz
+- ⤵️
+- Discord Caramelo#5664
+- ⤴️
 
 Iam Still Working For Discord bot...
 
