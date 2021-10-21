@@ -14,7 +14,7 @@ Iam Came From indonesia 🇮🇩
 
 
 ## Support me
-[Saweria](saweria.co/MorenT)
+[Saweria](saweria.co/MorenT) 
 [Trakteer](https://trakteer.id/rentSquad)
 
 ### Host Your Bot In Link Below ⬇️
