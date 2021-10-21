@@ -14,7 +14,7 @@ Iam Came From indonesia 🇮🇩
 
 
 ## Support me
-![Contoh](https://cdn.discordapp.com/emojis/889816549970558996.gif?size=96) [Saweria](saweria.co/MorenT) 
+[Saweria](saweria.co/MorenT) 
 [Trakteer](https://trakteer.id/rentSquad)
 
 ### Host Your Bot In Link Below ⬇️
