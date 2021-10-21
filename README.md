@@ -19,4 +19,4 @@ Iam Came From indonesia
 ### Also Check My Replit For Fork it 🇮🇩
 [@CarameloSzy](https://repl.it/@Carameloszy)
 
-[![Jalankan Di Repl.it](https://i.pinimg.com/originals/58/29/0f/58290f69d296034e7eaaaca5e65db069.gif)](https://szyhostinger.haseull.repl.co/)
+[![Jalankan Di Repl.it](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d082a537-9a45-4512-af54-08c87b335298/db3alie-08fbd628-be15-490b-9999-3444b6a22a7e.png/v1/fill/w_991,h_806,strp/_loona__logo___png_by_tsukinofleur_db3alie-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODMzIiwicGF0aCI6IlwvZlwvZDA4MmE1MzctOWE0NS00NTEyLWFmNTQtMDhjODdiMzM1Mjk4XC9kYjNhbGllLTA4ZmJkNjI4LWJlMTUtNDkwYi05OTk5LTM0NDRiNmEyMmE3ZS5wbmciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.Q6EwNzPdmKrfgFXqGvGx_fiOkVGWN1V99NlmqvTZeA8)](https://szyhostinger.haseull.repl.co/)
