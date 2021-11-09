@@ -9,9 +9,6 @@ Iam Still Working For Discord bot...
 
 Iam Came From indonesia 🇮🇩
 
-
-![contoh](https://c.tenor.com/WlPvlFdkaIUAAAAC/twice-mina.gif)
-
 ## Support me
 [Saweria](saweria.co/MorenT) 
 [Trakteer](https://trakteer.id/rentSquad)
@@ -22,7 +19,6 @@ Iam Came From indonesia 🇮🇩
 ### Also Check My Replit For Fork it 🇮🇩
 
 [@CarameloSzy](https://repl.it/@Carameloszy)
-
 
 <h2 align="center"> 🚀 Stats 🚀</h2>
 <p align="center">
