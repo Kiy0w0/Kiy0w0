@@ -23,12 +23,7 @@ Iam Came From indonesia 🇮🇩
 
 [@CarameloSzy](https://repl.it/@Carameloszy)
 
-## Konnichiwa Yama Here <img align="right" src="" width="200" />
-I'm **Kousuke Yama Or You Can Call me Yama**, An Developer Who Developed For fun Iam Like to Developed Discord Bot With TypeScript And JavaScript.
-  
-Thanks for visiting my github profile. Have a great day ahead!~
-  
-  
+
 <h2 align="center"> 🚀 Stats 🚀</h2>
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=CarameloSz&theme=dracula">
