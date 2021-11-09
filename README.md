@@ -23,6 +23,22 @@ Iam Came From indonesia 🇮🇩
 
 [@CarameloSzy](https://repl.it/@Carameloszy)
 
-![Under](https://camo.githubusercontent.com/1b8919236911d9f053f772edb4c88fbae283a72f8c46845fac20702ee656bae3/687474703a2f2f7465787466696c65732e636f6d2f756e646572636f6e737472756374696f6e2f6d616d61676e6f6c69615f6163726573756e646572636f6e737472756374696f6e2e676966)
-
-Under Construction :(
+## Konnichiwa Yama Here <img align="right" src="https://media.discordapp.net/attachments/898078923747901500/907569065734860830/bfe9e2d4ea3cd8e72cfda515ccdad9b8.jpg?width=288&height=432" width="200" />
+I'm **Kousuke Yama Or You Can Call me Yama**, An Developer Who Developed For fun Iam Like to Developed Discord Bot With TypeScript And JavaScript.
+  
+Thanks for visiting my github profile. Have a great day ahead!~
+  
+  
+<h2 align="center"> 🚀 Stats 🚀</h2>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=CarameloSz&theme=dracula">
+</p>
+<details>
+  <summary>
+      Even more stats
+  </summary>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=CarameloSz&theme=radical)">
+    <img src="https://github-readme-stats.vercel.app/api?username=CarameloSz&theme=tokyonight">
+  </p>
+</details>
