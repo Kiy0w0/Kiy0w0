@@ -13,8 +13,8 @@ Iam Came From indonesia 🇮🇩
 [Saweria](saweria.co/MorenT) 
 [Trakteer](https://trakteer.id/rentSquad)
 
-### Host Your Bot In Link Below ⬇️
-### [24/7 Discord Bot hosting](https://szyhostinger.haseull.repl.co/)
+### Lernox Web
+[Lernox Web](https://lernox.netlify.app)
 
 ### Also Check My Replit For Fork it 🇮🇩
 
