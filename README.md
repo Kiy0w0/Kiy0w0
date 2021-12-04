@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CarameloSz
 - ⤵️
-- Discord Caramelo#5664
+- Discord 
 - [Instagram](https://www.instagram.com/itssasaaa129/)
 - ⤴️
 ## Dont forget to follow me!!
