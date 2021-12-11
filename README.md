@@ -1,6 +1,6 @@
 
 <h2 align="center">
-    Hello !! Iam<strong>Caramel</strong>. <img src="https://thumbs.gfycat.com/AchingBestFlatcoatretriever-max-1mb.gif" width="30px">
+    Hello !! Iam <strong>Caramel</strong>. <img src="https://thumbs.gfycat.com/AchingBestFlatcoatretriever-max-1mb.gif" width="30px">
 </h2>
 <p align="center">
 
