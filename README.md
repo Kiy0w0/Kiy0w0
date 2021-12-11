@@ -9,6 +9,12 @@
 <br>
 <br>
     
+ <p align="center">
+ I Also Like KPOP, My Bias Is Chaewon - IZ*One And Follow Me On Instagram <strong> <a href="https://www.instagram.com/itssasaaa129/">Discord</a></strong>
+<br>
+<br>
+    
+    
 <br>
 <br>
 <a href="https://github.com/CarameloSz/">
