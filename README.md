@@ -1,7 +1,7 @@
 <br>
 <br>
-<a href="https://github.com/ZeroDiscord/">
-        <img src="https://komarev.com/ghpvc/?username=ZeroDiscord&color=red" />
+<a href="https://github.com/CarameloSz/">
+        <img src="https://komarev.com/ghpvc/?username=CarameloSz&color=pink" />
   </a> 
 <br>
 <br>
