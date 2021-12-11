@@ -1,32 +1,8 @@
-<br>
-<br>
-<a href="https://github.com/CarameloSz/">
-        <img src="https://komarev.com/ghpvc/?username=CarameloSz&color=blue" />
-  </a> 
-<br>
-<br>
 
-- 👋 Hi, I’m @CarameloSz
-- ⤵️
-- Discord 
-- [Instagram](https://www.instagram.com/itssasaaa129/)
-- ⤴️
-## Dont forget to follow me!!
-
-Iam Still Working For Discord bot...
-
-Iam Came From indonesia 🇮🇩
-
-## Support me
-[Saweria](saweria.co/MorenT) 
-[Trakteer](https://trakteer.id/rentSquad)
-
-### Lernox Web
-[Lernox Web](https://lernox.netlify.app)
-
-### Also Check My Replit For Fork it 🇮🇩
-
-[@CarameloSzy](https://repl.it/@Carameloszy)
+<h2 align="center">
+    Hello !! Iam Caramel <strong>Zero</strong>. <img src="https://thumbs.gfycat.com/AchingBestFlatcoatretriever-max-1mb.gif" width="30px">
+</h2>
+<p align="center">
 
 <h2 align="center"> 🚀 Stats 🚀</h2>
 <p align="center">
