@@ -12,14 +12,14 @@
   <summary>
       Even more stats
   </summary>
- </p>
+</p>
 <hr/>
 <p align="center">
     <a href="https://github.com/CarameloSz/">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=CarameloSz&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=f04848&ring=f04848&stroke=FFFFFFFF)](https://git.io/streak-stats" />
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=ZeroDiscord&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=f04848&ring=f04848&stroke=FFFFFFFF)](https://git.io/streak-stats" />
   </a> 
-  <a href="https://github.com/CarameloSz/">
-        <img src="https://github-readme-stats.vercel.app/api?username=CarameloSzCarameloSz&show_icons=true&theme=gruvbox" />
+  <a href="https://github.com/ZeroDiscord/">
+        <img src="https://github-readme-stats.vercel.app/api?username=CarameloSz&show_icons=true&theme=pink" />
   </a> 
 <br>
 <a href="https://github.com/CarameloSz/">
