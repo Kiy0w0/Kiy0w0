@@ -4,9 +4,9 @@
 </h2>
 <p align="center">
 
-### Iam a Javascript & TypeScript Developer
-    I Like to make bot with databases like Sqlite MongoDB MariaDB
-    I Also Like Kpop And My Bae Chaewon <3
+## Iam a Javascript & TypeScript Developer
+I Like to make bot with databases like Sqlite MongoDB MariaDB
+I Also Like Kpop And My Bae Chaewon <3
     
 <br>
 <br>
