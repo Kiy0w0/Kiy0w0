@@ -6,8 +6,8 @@
 
 <br>
 <br>
-<a href="https://discord.com/users/586802340607164417">
-        <img src="https://lanyard-profile-readme.vercel.app/api/586802340607164417?idleMessage=%22May%20The%20Code%20Be%20With%20you%22&borderRadius=25px" />
+<a href="https://discord.com/users/603948445362946084">
+        <img src="[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/586802340607164417)](https://discord.com/users/586802340607164417)" />
     </a>
 </p>    
     
