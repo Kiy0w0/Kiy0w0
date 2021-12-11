@@ -15,7 +15,7 @@
 <br>
 <br>
 <a href="https://discord.com/users/853511872971276288">
-        <img src="https://api.lanyard.rest/v1/users/853511872971276288" />
+        <img src="https://lanyard-profile-readme.vercel.app/api/853511872971276288?idleMessage=%22May%20The%20Code%20Be%20With%20you%22&borderRadius=25px" />
     </a>
 </p>    
     
