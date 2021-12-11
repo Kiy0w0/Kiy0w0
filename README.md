@@ -7,7 +7,7 @@
 <br>
 <br>
 <a href="https://discord.com/users/603948445362946084">
-        <img src="[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/586802340607164417)](https://discord.com/users/586802340607164417)" />
+        <img src="![Discord Presence](https://lanyard-profile-readme.vercel.app/api/586802340607164417)](https://discord.com/users/586802340607164417)" />
     </a>
 </p>    
     
