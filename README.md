@@ -7,7 +7,7 @@
 <br>
 <br>
 <a href="https://discord.com/users/586802340607164417">
-        <img src="[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/586802340607164417?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Chaewon%20For%20Ever%<3...)](https://discord.com/users/586802340607164417)" />
+        <img src=" https://api.lanyard.rest/v1/users/853511872971276288" />
     </a>
 </p>    
     
