@@ -6,6 +6,14 @@
 
 <br>
 <br>
+<a href="https://github.com/CarameloSz/">
+        <img src="https://komarev.com/ghpvc/?username=CarameloSz&color=blue" />
+  </a> 
+<br>
+<br>    
+    
+<br>
+<br>
 <a href="https://discord.com/users/586802340607164417">
         <img src=" https://api.lanyard.rest/v1/users/853511872971276288" />
     </a>
