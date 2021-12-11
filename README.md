@@ -14,7 +14,7 @@
     
 <br>
 <br>
-<a href="https://discord.com/users/586802340607164417">
+<a href="https://discord.com/users/853511872971276288">
         <img src="https://api.lanyard.rest/v1/users/853511872971276288" />
     </a>
 </p>    
