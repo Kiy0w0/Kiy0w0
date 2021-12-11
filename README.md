@@ -5,7 +5,7 @@
 <p align="center">
 
 ### Iam a Javascript & TypeScript Developer
-    I Like to make bot with databases like `Sqlite` `MongoDB` `MariaDB`
+    I Like to make bot with databases like Sqlite MongoDB MariaDB
     
 <br>
 <br>
