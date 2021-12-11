@@ -5,7 +5,8 @@
 <p align="center">
 
 <p align="center">
-    Iam A Cute Developer I Like to make Bot with databases like MongoDB - MariaDB- SQlite I Also Online On Discord<strong> <a href="https://discord.com">Discord</a></strong>
+    Iam A Cute Developer I Like to make Bot with databases like MongoDB - MariaDB- SQlite
+    And i Like KPOP To <3 My Bias Is Chaewon <3 <strong> <a href="https://discord.com">Discord</a></strong>
 <br>
 <br>
     
