@@ -1,3 +1,11 @@
+<br>
+<br>
+<a href="https://github.com/ZeroDiscord/">
+        <img src="https://komarev.com/ghpvc/?username=ZeroDiscord&color=red" />
+  </a> 
+<br>
+<br>
+
 - 👋 Hi, I’m @CarameloSz
 - ⤵️
 - Discord 
