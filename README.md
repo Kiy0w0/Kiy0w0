@@ -38,8 +38,8 @@
       Chaewon!
   </summary>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=KousukeYama&theme=radical)">
-    <img src="https://github-readme-stats.vercel.app/api?username=KousukeYama&theme=tokyonight">
+    <img src="https://64.media.tumblr.com/3c1f6b909c8d2e4cea30130b20e5e641/d0db26ce1c84c777-ca/s540x810/3253bfd3d5fe373b6a816fede49a1af254ccbe31.gifv">
+    <img src="https://c.tenor.com/9a_2IG-x6aEAAAAC/izone-chaewon.gif">
   </p>
 </details>
 
