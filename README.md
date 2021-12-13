@@ -3,7 +3,6 @@
     Hello !! Iam <strong>Caramel</strong>. <img src="https://thumbs.gfycat.com/AchingBestFlatcoatretriever-max-1mb.gif" width="30px">
 </h2>
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
 <p align="center">
     Iam A Cute Developer I Like to make Bot with databases like MongoDB - MariaDB- SQlite I Also Online On <strong> <a href="https://discord.com">Discord</a></strong>
@@ -30,7 +29,7 @@
     </a>
 </p>    
     
-
+<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
 <details>
   <summary>
