@@ -28,18 +28,7 @@
         <img src="https://lanyard-profile-readme.vercel.app/api/853511872971276288?idleMessage=%22Chaewon%20For%20Real%20%20%20%22&borderRadius=25px" />
     </a>
 </p>    
-    
-
-
-
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
-
-
-
-
-
-
-
+  
 <details>
   <summary>
       Even more stats
