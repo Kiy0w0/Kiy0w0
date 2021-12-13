@@ -29,6 +29,13 @@
     </a>
 </p>    
 
+<h2 align="center"> 🚀 私の統計 🚀</h2>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=CarameloSz&theme=dracula">
+</p>
+<details>
+  <summary>
+
   
 <details>
   <summary>
