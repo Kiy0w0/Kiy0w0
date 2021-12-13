@@ -25,7 +25,7 @@
 <br>
 <br>
 <a href="https://github.com/CarameloSz/">
-        <img src="https://c.tenor.com/6E-iRVEsPzIAAAAC/izone-chaewon.gif" />
+        <img src="https://c.tenor.com/vfA6UUFt3FoAAAAC/izone-chaewon.gif" />
   </a> 
 <br>
 <br>     
