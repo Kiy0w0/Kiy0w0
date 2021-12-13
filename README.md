@@ -31,14 +31,6 @@
      
 <br>
 <br>
-<a href="https:/twitter.com/Caramel">
-        <img src="https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white" />
-  </a> 
-<br>
-<br>      
-     
-<br>
-<br>
 <a href="https://github.com/CarameloSz/">
         <img src="https://komarev.com/ghpvc/?username=CarameloSz&color=blue" />
   </a> 
