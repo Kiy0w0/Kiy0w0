@@ -21,16 +21,7 @@
   </a> 
 <br>
 <br>
-     
-<br>
-<br>
-<a href="https://github.com/CarameloSz/">
-        <img src="https://c.tenor.com/vfA6UUFt3FoAAAAC/izone-chaewon.gif" />
-  </a> 
-<br>
-<br>     
- 
-     
+         
 <br>
 <br>
 <a href="https://discord.com/users/853511872971276288">
