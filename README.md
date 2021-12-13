@@ -10,7 +10,6 @@
 
 
 
-<p align="center">
 
 <p align="center">
     Iam A Cute Developer I Like to make Bot with databases like MongoDB - MariaDB- SQlite I Also Online On <strong> <a href="https://discord.com">Discord</a></strong>
