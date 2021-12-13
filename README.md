@@ -4,11 +4,23 @@
 </h2>
 
 
+<br>
+<br>
+<a href="https://lernnox.netlify.app">
+        <img src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" />
+  </a> 
+<br>
+<br>  
+
+
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://lernnox.netlify.app/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/itssasaaa129/)
 
-
+<p align="center">
+    Iam A Cute Developer I Like to make Bot with databases like MongoDB - MariaDB- SQlite I Also Online On <strong> <a href="https://discord.com">Discord</a></strong>
+<br>
+<br>
 
 
 <p align="center">
