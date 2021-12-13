@@ -35,7 +35,7 @@
 </p>
 <details>
   <summary>
-      Open This!
+      Chaewon!
   </summary>
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=KousukeYama&theme=radical)">
