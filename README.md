@@ -3,7 +3,7 @@
     Hello !! Iam <strong>Caramel</strong>. <img src="https://thumbs.gfycat.com/AchingBestFlatcoatretriever-max-1mb.gif" width="30px">
 </h2>
 
-
+<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
 <p align="center">
     Iam A Cute Developer I Like to make Bot with databases like MongoDB - MariaDB- SQlite I Also Online On <strong> <a href="https://discord.com">Discord</a></strong>
@@ -31,6 +31,7 @@
 </p>    
     
 
+
 <details>
   <summary>
       Even more stats
@@ -49,14 +50,3 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarameloSz&theme=gruvbox&langs_count=8&layout=compact" />
   </a> 
 </p>
-
-### Projects and Dev Stuffs:
-
-<details>	
-  <summary><b>⚡ Github Stats</b></summary>
-
-  <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iampavangandhi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampavangandhi&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</details>
-
