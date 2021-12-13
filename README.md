@@ -31,7 +31,7 @@
   
 <details>
   <summary>
-      Even more stats
+      Stats
   </summary>
 </p>
 <hr/>
@@ -47,11 +47,4 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarameloSz&theme=gruvbox&langs_count=8&layout=compact" />
   </a> 
 </p>
-
-<details>	
-  <summary><b>☄️ Github Streaks</b></summary>
-
-  <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=iampavangandhi&hide_border=true" />
-</details>
 
