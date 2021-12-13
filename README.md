@@ -27,7 +27,15 @@
         <img src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" />
   </a> 
 <br>
-<br>         
+<br>
+     
+<br>
+<br>
+<a href="https:/twitter.com/Caramel">
+        <img src="https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white" />
+  </a> 
+<br>
+<br>      
      
 <br>
 <br>
