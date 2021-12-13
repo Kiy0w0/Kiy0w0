@@ -4,13 +4,6 @@
 </h2>
 
 
-<br>
-<br>
-<a href="https://lernnox.netlify.app">
-        <img src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" />
-  </a> 
-<br>
-<br>  
 
 
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://lernnox.netlify.app/)
@@ -32,7 +25,15 @@
  I Also Like KPOP, My Bias Is Chaewon - IZ*One And Follow Me On <strong> <a href="https://www.instagram.com/itssasaaa129/">Instagram</a></strong>
 <br>
 <br>
-       
+ 
+<br>
+<br>
+<a href="https://lernnox.netlify.app">
+        <img src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" />
+  </a> 
+<br>
+<br>         
+     
 <br>
 <br>
 <a href="https://github.com/CarameloSz/">
