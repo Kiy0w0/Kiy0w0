@@ -13,9 +13,7 @@
  I Also Like KPOP, My Bias Is Chaewon - IZ*One And Follow Me On <strong> <a href="https://www.instagram.com/itssasaaa129/">Instagram</a></strong>
 <br>
 <br>
-
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />     
-     
+   
 <br>
 <br>
 <a href="https://github.com/CarameloSz/">
@@ -50,3 +48,8 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarameloSz&theme=gruvbox&langs_count=8&layout=compact" />
   </a> 
 </p>
+
+
+
+
+<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
