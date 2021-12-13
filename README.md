@@ -29,7 +29,15 @@
     </a>
 </p>    
 
-<img align="middle" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+<br>
+<br>    
+    
+<br>
+<br>
+<a href="https://discord.com/users/853511872971276288">
+        <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+    </a>
+</p>
 
 
 <details>
