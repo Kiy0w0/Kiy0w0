@@ -3,10 +3,6 @@
     Hello !! Iam <strong>Caramel</strong>. <img src="https://thumbs.gfycat.com/AchingBestFlatcoatretriever-max-1mb.gif" width="30px">
 </h2>
 
-<h2 align="center">
-    Hello !! Iam <strong>Caramel</strong>. <img src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" width="100px">
-</h2>
-
 
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://lernnox.netlify.app/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/)
