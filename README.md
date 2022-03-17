@@ -31,7 +31,7 @@
 
 <h2 align="center"> 🚀 Trophy 🚀</h2>
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=CarameloSz&theme=dracula">
+<img src="https://github-profile-trophy.vercel.app/?username=caramelosz&theme=dracula">
 </p>
 <details>
   <summary>
