@@ -24,8 +24,8 @@
          
 <br>
 <br>
-<a href="https://discord.com/users/853511872971276288">
-        <img src="https://lanyard-profile-readme.vercel.app/api/853511872971276288?idleMessage=%22Chaewon%20For%20Real%20%20%20%22&borderRadius=25px" />
+<a href="https://discord.com/users/852798265996476436">
+        <img src="https://lanyard-profile-readme.vercel.app/api/852798265996476436?idleMessage=%22Chaewon%20For%20Real%20%20%20%22&borderRadius=25px" />
     </a>
 </p>    
 
