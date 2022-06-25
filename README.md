@@ -25,7 +25,7 @@
 <br>
 <br>
 <a href="https://discord.com/users/852798265996476436">
-        <img src="https://lanyard-profile-readme.vercel.app/api/852798265996476436?idleMessage=%22Chuu - Heart attack%20For%20ヾ≧▽≦*o%20%20%20%22&borderRadius=25px" />
+        <img src="https://lanyard-profile-readme.vercel.app/api/852798265996476436?idleMessage=%22Chuu Only One%20For%20Loonaverse only%20%20%20%22&borderRadius=25px" />
     </a>
 </p>    
 
