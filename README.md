@@ -10,7 +10,7 @@
 <br>
    
  <p align="center">
- I Also Like KPOP, My Bias Is Chaewon - IZ*One And Follow Me On <strong> <a href="https://www.instagram.com/itssasaaa129/">Instagram</a></strong>
+ I Also Like KPOP, My Bias Is Chaewon - IZ*One And Follow Me On <strong> <a href="https://www.instagram.com/carameloDev/">Instagram</a></strong>
 <br>
 <br>
    
