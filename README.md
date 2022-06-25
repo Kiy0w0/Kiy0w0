@@ -1,6 +1,6 @@
 
 <h2 align="center">
-    Hello !! Iam <strong>Caramel</strong>. <img src="" width="30px">
+    Hello !! Iam <strong>Caramel</strong>. <img src="https://data.whicdn.com/images/319955077/original.gif" width="30px">
 </h2>
 
 
