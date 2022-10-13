@@ -14,21 +14,6 @@
 <br>
 <br>
    
-<br>
-<br>
-<a href="https://github.com/CarameloSz/">
-        <img src="[https://komarev.com/ghpvc/?username=CarameloSz&color=blue](https://api.lanyard.rest/v1/users/853511872971276288)" />
-  </a> 
-<br>
-<br>
-         
-<br>
-<br>
-<a href="https://api.lanyard.rest/v1/users/853511872971276288">
-        <img src="https://lanyard-profile-readme.vercel.app/api/852798265996476436?idleMessage=%22Chuu Only One%20For%20Loonaverse only%20%20%20%22&borderRadius=25px" />
-    </a>
-</p>    
-
 <h2 align="center"> 🚀 Trophy 🚀</h2>
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=caramelosz&theme=dracula">
