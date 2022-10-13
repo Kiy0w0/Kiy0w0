@@ -17,7 +17,7 @@
 <br>
 <br>
 <a href="https://github.com/CarameloSz/">
-        <img src="https://komarev.com/ghpvc/?username=CarameloSz&color=blue" />
+        <img src="[https://komarev.com/ghpvc/?username=CarameloSz&color=blue](https://api.lanyard.rest/v1/users/853511872971276288)" />
   </a> 
 <br>
 <br>
