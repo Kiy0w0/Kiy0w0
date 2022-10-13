@@ -24,7 +24,7 @@
          
 <br>
 <br>
-<a href="https://discord.com/users/852798265996476436">
+<a href="https://discord.com/users/586802340607164417">
         <img src="https://lanyard-profile-readme.vercel.app/api/852798265996476436?idleMessage=%22Chuu Only One%20For%20Loonaverse only%20%20%20%22&borderRadius=25px" />
     </a>
 </p>    
