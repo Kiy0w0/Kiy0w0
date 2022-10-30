@@ -82,7 +82,7 @@
   <samp>
   <br/>
   <h2 align="center"> latest contribution </h2>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+<a href="https://github.com/caramelosz/github-readme-activity-graph">
   <img alt="azzar's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=1999azzar&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
 <br/>
   </samp>
@@ -107,3 +107,5 @@
         <img src="https://raw.githubusercontent.com/badges/shields/master/readme-logo.svg" img align="center" height="50"
         alt="shields.io"/></a>
     </p>
+
+Template by azzar
