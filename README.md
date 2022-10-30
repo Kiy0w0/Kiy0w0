@@ -89,7 +89,7 @@
   </details>
   
 <details>
-  <summary>🌏 global</summary>
+  <summary>🌏 Global</summary>
   <br/>
   <details open>
   <summary>👷‍♂️ create your own custom badge</summary>
