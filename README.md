@@ -83,7 +83,7 @@
   <br/>
   <h2 align="center"> latest contribution </h2>
 <a href="https://github.com/caramelosz/github-readme-activity-graph">
-  <img alt="Kiyowo's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=1999azzar&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
+  <img alt="Kiyowo's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=CarameloSz&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
 <br/>
   </samp>
   </details>
