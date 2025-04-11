@@ -86,6 +86,6 @@ const kiyowo = {
 </div>
 
 <div align="center">
-  <img src="https://i.imgur.com/kfuLV5i.gif](https://www.youtube.com/watch?v=UsrTfODgZMU" width="100%" alt="Wonyoung Footer">
+  <img src="https://i.imgur.com/kfuLV5i.gif](https://www.youtube.com/watch?v=Us" width="100%" alt="Wonyoung Footer">
   <p>✨ "As pretty as Jang Wonyoung, As hardworking as a developer" ✨</p>
 </div> 
