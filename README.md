@@ -28,7 +28,7 @@ const kiyowo = {
 ```
 
 <div align="center">
-  <img src="https://i.imgur.com/VF0S2Ea.gif" width="400px" alt="Wonyoung GIF">
+  <img src="[https://i.imgur.com/VF0S2Ea.gi](https://64.media.tumblr.com/f2649ec2f24cca5e07fea26519cd69c3/tumblr_ph0n0zc80H1xztu3lo1_r1_500.gif)f" width="400px" alt="Wonyoung GIF">
 </div>
 
 <!-- GitHub Stats -->
