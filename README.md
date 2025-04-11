@@ -1,6 +1,7 @@
 <!-- Profile Header -->
 <div align="center">
-  <img src="https://i.imgur.com/jWr67J8.png" width="100%" alt="Wonyoung Banner">
+  <img src="![image](https://github.com/user-attachments/assets/0906a7cf-e1e7-447a-b9ee-0f6d30d3666f)
+">
 </div>
 
 <h1 align="center">✨ Welcome to Kiyowo's Profile ✨</h1>
