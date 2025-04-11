@@ -1,7 +1,6 @@
 <!-- Profile Header -->
 <div align="center">
-  <img src="![image](https://github.com/user-attachments/assets/0906a7cf-e1e7-447a-b9ee-0f6d30d3666f)
-">
+  <img src="https://assets.teenvogue.com/photos/659d6f6b6ce955e274b9acbd/16:9/w_2560%2Cc_limit/1715160243">
 </div>
 
 <h1 align="center">✨ Welcome to Kiyowo's Profile ✨</h1>
