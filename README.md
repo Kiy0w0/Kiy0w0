@@ -1,7 +1,7 @@
 # ✨ ᴋɪʏ໐ω໐ ✨
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&background=FF000000&center=true&vCenter=true&width=435&lines=Welcome+to+my+digital+world+%F0%9F%8C%B8;Y2K+aesthetic+%E2%9C%A8+NewJeans+vibes;Coding+with+style+%F0%9F%92%96;Always+dreaming+in+pastel+%F0%9F%A6%84)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&background=FF000000&center=true&vCenter=true&width=435&lines=Welcome+to+my+digital+world+%F0%9F%8C%B8;Cute+aesthetic+%E2%9C%A8+NewJeans+vibes;Coding+with+style+%F0%9F%92%96;Always+dreaming+in+Newjeans+%F0%9F%A6%84)
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
