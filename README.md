@@ -1,91 +1,106 @@
-<!-- Profile Header -->
+# ✨ ᴋɪʏ໐ω໐ ✨
 <div align="center">
-  <img src="https://assets.teenvogue.com/photos/659d6f6b6ce955e274b9acbd/16:9/w_2560%2Cc_limit/1715160243">
-</div>
 
-<h1 align="center">✨ Welcome to Kiyowo's Profile ✨</h1>
-<h3 align="center">💎 IVE Jang Wonyoung Enthusiast | Developer 💎</h3>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&background=FF000000&center=true&vCenter=true&width=435&lines=Welcome+to+my+digital+world+%F0%9F%8C%B8;Y2K+aesthetic+%E2%9C%A8+NewJeans+vibes;Coding+with+style+%F0%9F%92%96;Always+dreaming+in+pastel+%F0%9F%A6%84)
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kiy0w0&style=flat-square&color=ff94c2" alt="profile views">
-  <img src="https://img.shields.io/badge/Focus-DIVE_INTO_IVE-ff94c2?style=flat-square" alt="IVE">
-  <img src="https://img.shields.io/badge/Bias-Jang_Wonyoung-c879ff?style=flat-square" alt="Wonyoung">
-</div>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<!-- About Me -->
-## 💫 About Me
+### ⋆｡‧˚ʚ♡ɞ˚‧｡⋆ about me ⋆｡‧˚ʚ♡ɞ˚‧｡⋆
 
-```javascript
-const kiyowo = {
-  pronouns: "she/her",
-  location: "Kuala Lumpur",
-  timezone: "UTC+08:00",
-  languages: ["JavaScript", "Python", "HTML", "CSS"],
-  interests: ["K-pop", "Coding", "IVE", "Jang Wonyoung"],
-  currentFocus: "Studying Hard",
-  funFact: "I spend hours learning Wonyoung's choreographies!"
+```typescript
+const kiy0w0 = {
+    name: "Kiy0w0",
+    pronouns: "she/her",
+    vibe: "SAD",
+    love: ["NewJeans", "Fromis_9", "IVE", "GUGUDAN"],
+    currently: "creating discord bot",
+    loves: ["coding", "music", "anime"],
+    motto: "Jangan Lupa Sholat!"
 };
 ```
 
-<div align="center">
-  <img src="https://64.media.tumblr.com/f2649ec2f24cca5e07fea26519cd69c3/tumblr_ph0n0zc80H1xztu3lo1_r1_500.gif" width="720px" alt="Wonyoung GIF">
-</div>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<!-- GitHub Stats -->
-## 📊 GitHub Stats
+### ✧･ﾟ: *✧･ﾟ:* tech stack *:･ﾟ✧*:･ﾟ✧
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kiy0w0&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kiy0w0&theme=radical&hide_border=true" alt="GitHub Streak">
-</div>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="320" height="220" />
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiy0w0&layout=compact&theme=radical&hide_border=true" alt="Top Languages">
-</div>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-<!-- Latest Activity -->
-## 🎵 Current IVE Playlist
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=6ZUIwj3FgUY">
-    <img src="https://img.shields.io/badge/IVE-Baddie-ff94c2?style=for-the-badge" alt="Baddie">
-  </a>
-  <a href="https://www.youtube.com/watch?v=pG6iaOMV46I">
-    <img src="https://img.shields.io/badge/IVE-Love_Dive-c879ff?style=for-the-badge" alt="Love Dive">
-  </a>
-  <a href="https://www.youtube.com/watch?v=F0B7HDiY-10">
-    <img src="https://img.shields.io/badge/IVE-Eleven-ff94c2?style=for-the-badge" alt="Eleven">
-  </a>
-  <a href="https://www.youtube.com/watch?v=Y8JFxS1HlDo">
-    <img src="https://img.shields.io/badge/IVE-I_AM-c879ff?style=for-the-badge" alt="I AM">
-  </a>
-</div>
-
-<!-- Projects -->
-## 🌟 Featured Projects
+### 💖 ･ﾟ✧*:･ﾟ✧ github stats ✧ﾟ･: *✧･ﾟ 💖
 
 <div align="center">
-  <a href="https://github.com/Kiy0w0/Chuu-Security">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kiy0w0&repo=Chuu-Security&theme=radical&hide_border=true" alt="Chuu-Security">
-  </a>
-  <a href="https://github.com/Kiy0w0/ZonaAnime.id">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kiy0w0&repo=ZonaAnime.id&theme=radical&hide_border=true" alt="ZonaAnime.id">
-  </a>
-</div>
-
-<!-- Connect -->
-## 🌸 Let's Connect
-
-<div align="center">
-  <a href="https://discord.gg/yourserver">
-    <img src="https://img.shields.io/badge/Discord-Kiyowo-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-  </a>
-  <a href="https://twitter.com/yourtwitterhandle">
-    <img src="https://img.shields.io/badge/Twitter-Kiyowo-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kiy0w0&show_icons=true&theme=synthwave&bg_color=0d1117&title_color=ff69b4&icon_color=ff69b4&text_color=c9d1d9&border_color=ff69b4" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/a4/a0/71/a4a071660f179343e4017dfac76e4c67.gif" width="100%" alt="Wonyoung Footer">
-  <p>✨ "As pretty as Jang Wonyoung, As hardworking as a developer" ✨</p>
-</div> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiy0w0&layout=compact&theme=synthwave&bg_color=0d1117&title_color=ff69b4&text_color=c9d1d9&border_color=ff69b4" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kiy0w0&theme=synthwave&background=0d1117&stroke=ff69b4&ring=ff69b4&fire=ff69b4&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=ff69b4&sideLabels=ff69b4&dates=c9d1d9" alt="GitHub Streak" />
+</div>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+### 🌸 ･ﾟ✧*:･ﾟ✧ activity graph ✧ﾟ･: *✧･ﾟ 🌸
+
+[![Kiy0w0's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kiy0w0&bg_color=0d1117&color=ff69b4&line=ff69b4&point=c9d1d9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+### ✨ ･ﾟ✧*:･ﾟ✧ connect with me ✧ﾟ･: *✧･ﾟ ✨
+
+<div align="center">
+
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://tiktok.com)
+
+</div>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+### 🦄 ･ﾟ✧*:･ﾟ✧ fun facts ✧ﾟ･: *✧･ﾟ 🦄
+
+```yaml
+current_mood: "✨ feeling cute, might code later ✨"
+favorite_colors: ["#FF69B4", "#FFB6C1", "#DDA0DD", "#98FB98"]
+coding_music: ["NewJeans", "K-pop", "Lo-fi", "City pop"]
+dream_setup: "Pink RGB everything 💖"
+coffee_or_tea: "Bubble tea all the way! 🧋"
+```
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Kiy0w0&color=ff69b4&style=for-the-badge&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/Kiy0w0?color=ff69b4&style=for-the-badge&label=Followers)
+![Stars](https://img.shields.io/github/stars/Kiy0w0?color=ff69b4&style=for-the-badge&label=Stars)
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+### ♡ ♡ ♡ thanks for visiting! ♡ ♡ ♡
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
+</div>
+
+---
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&text=Stay%20Cute!%20💖&fontSize=20&fontColor=ffffff&animation=twinkling"/>
+</div>
+</div>
