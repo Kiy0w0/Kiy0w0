@@ -73,16 +73,6 @@ const kiy0w0 = {
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-### 🦄 ･ﾟ✧*:･ﾟ✧ fun facts ✧ﾟ･: *✧･ﾟ 🦄
-
-```yaml
-current_mood: "✨ feeling cute, might code later ✨"
-favorite_colors: ["#FF69B4", "#FFB6C1", "#DDA0DD", "#98FB98"]
-coding_music: ["NewJeans", "K-pop", "Lo-fi", "City pop"]
-dream_setup: "Pink RGB everything 💖"
-coffee_or_tea: "Bubble tea all the way! 🧋"
-```
-
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Kiy0w0&color=ff69b4&style=for-the-badge&label=Profile+Views)
