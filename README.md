@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Matcha Lover&fontSize=60&fontAlign=50&fontAlignY=40&color=0:87CEEB,100:1E3A8A&fontColor=ffffff&animation=twinkling" alt="kiy0w0 animated header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=MatchaLover&fontSize=60&fontAlign=50&fontAlignY=40&color=0:87CEEB,100:1E3A8A&fontColor=ffffff&animation=twinkling" alt="kiy0w0 animated header" />
 </p>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=87ceeb&background=FF000000&center=true&vCenter=true&width=435&lines=Welcome+to+my+digital+world+%F0%9F%8C%B8;Cute+aesthetic+%E2%9C%A8+NewJeans+vibes;Coding+with+Water+%F0%9F%92%96;Always+dreaming+in+QWER+%F0%9F%A6%84)
