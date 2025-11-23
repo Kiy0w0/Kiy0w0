@@ -1,7 +1,5 @@
 <div align="center">
 
-![Visitor Counter](https://count.getloli.com/@:kiyowo?theme=rule34)
-
 #  Hi, I'm Kiy0w0
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Flutter+%7C+Dart+Developer+%F0%9F%92%99;C%2B%2B+%7C+Go+%7C+Rust+Enthusiast+%E2%9A%A1;React+%7C+TypeScript+%7C+JavaScript+%F0%9F%9A%80;Laravel+%7C+Backend+Developer+%F0%9F%94%A7;Building+Beautiful+Apps+%E2%9C%A8)
@@ -48,6 +46,8 @@ Creating beautiful apps one line at a time
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kiy0w0&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=true" alt="Contribution Graph" />
 
 ---
+
+![Visitor Counter](https://count.getloli.com/@:kiyowo?theme=rule34)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:000000,100:FFFFFF&section=footer" alt="footer" />
 
