@@ -1,54 +1,91 @@
 <div align="center">
 
-#  Hi, I'm Kiy0w0
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:000000,100:1a1a1a&text=Kiy0w0&fontColor=ffffff&fontSize=50&fontAlignY=35&desc=Developer%20•%20Student%20•%20Anime%20Enthusiast&descAlignY=55&descSize=18&animation=fadeIn" alt="header" width="100%"/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Flutter+%7C+Dart+Developer+%F0%9F%92%99;C%2B%2B+%7C+Go+%7C+Rust+Enthusiast+%E2%9A%A1;React+%7C+TypeScript+%7C+JavaScript+%F0%9F%9A%80;Laravel+%7C+Backend+Developer+%F0%9F%94%A7;Building+Beautiful+Apps+%E2%9C%A8)
+<br/>
 
-### 🤍 About Me
+[![Discord Presence](https://lanyard.cnrad.dev/api/586802340607164417)](https://discord.com/users/586802340607164417)
+<br/>
 
-Student • Developer • Anime Enthusiast  
-Creating beautiful apps one line at a time
-
----
-
-### 🛠️ Tech Stack
-
-![Dart](https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=white)
-![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Go](https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFFFFF?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=white)
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
 
 ---
 
-### 📊 GitHub Stats
+## � Languages
 
-<img src="https://github-readme-stats.vercel.app/api?username=kiy0w0&show_icons=true&theme=transparent&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=FFFFFF" alt="GitHub Stats" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=kiy0w0&theme=transparent&border=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" alt="GitHub Streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiy0w0&layout=compact&theme=transparent&title_color=FFFFFF&text_color=FFFFFF&border_color=FFFFFF" alt="Top Languages" />
+<img src="https://skillicons.dev/icons?i=dart,cpp,go,rust,js,ts,php,python,html,css&theme=dark" alt="Languages" />
 
 ---
 
-### 🏆 GitHub Trophies
+## ⚡ Frameworks & Libraries
 
-<img src="https://github-profile-trophy.vercel.app/?username=kiy0w0&theme=flat&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-
----
-
-### 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kiy0w0&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=true" alt="Contribution Graph" />
+<img src="https://skillicons.dev/icons?i=flutter,react,nextjs,vue,laravel,tailwind,nodejs,express,prisma&theme=dark" alt="Frameworks" />
 
 ---
 
-![Visitor Counter](https://count.getloli.com/@:kiyowo?theme=rule34)
+## 🛠️ Tools & Technologies
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:000000,100:FFFFFF&section=footer" alt="footer" />
+<img src="https://skillicons.dev/icons?i=vscode,git,github,docker,linux,figma,postman,firebase,supabase,vercel&theme=dark" alt="Tools" />
+
+---
+
+## 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,sqlite&theme=dark" alt="Databases" />
+
+---
+
+## 📊 GitHub Analytics
+
+<img src="https://github-readme-stats.vercel.app/api?username=kiy0w0&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff" alt="GitHub Stats" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiy0w0&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" alt="Top Languages" height="180"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=kiy0w0&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" alt="GitHub Streak" />
+
+---
+
+## 🏆 Achievements
+
+<img src="https://github-profile-trophy.vercel.app/?username=kiy0w0&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
+
+---
+
+## 📈 Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kiy0w0&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=1a1a1a&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" width="100%"/>
+
+---
+
+## 🔗 Connect With Me
+
+<a href="https://discord.com/users/YOUR_ID">
+  <img src="https://skillicons.dev/icons?i=discord&theme=dark" alt="Discord" height="40"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://twitter.com/YOUR_USERNAME">
+  <img src="https://skillicons.dev/icons?i=twitter&theme=dark" alt="Twitter" height="40"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://instagram.com/YOUR_USERNAME">
+  <img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram" height="40"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:your@email.com">
+  <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email" height="40"/>
+</a>
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=kiy0w0&style=for-the-badge&color=000000&label=VISITORS" alt="Profile Views"/>
+
+<br/><br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20is%20poetry%20written%20in%20logic.&author=Kiy0w0" alt="Quote"/>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:1a1a1a,100:000000&section=footer" alt="footer" width="100%"/>
 
 </div>
