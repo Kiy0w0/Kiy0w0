@@ -60,19 +60,19 @@
 
 ## 🔗 Connect With Me
 
-<a href="https://discord.com/users/YOUR_ID">
+<a href="https://discord.com/users/586802340607164417">
   <img src="https://skillicons.dev/icons?i=discord&theme=dark" alt="Discord" height="40"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://twitter.com/YOUR_USERNAME">
+<a href="https://twitter.com/sakuyaiizayoi">
   <img src="https://skillicons.dev/icons?i=twitter&theme=dark" alt="Twitter" height="40"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://instagram.com/YOUR_USERNAME">
+<a href="https://instagram.com/">
   <img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram" height="40"/>
 </a>
 &nbsp;&nbsp;
-<a href="mailto:your@email.com">
+<a href="mailto:networkmizu@email.com">
   <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email" height="40"/>
 </a>
 
