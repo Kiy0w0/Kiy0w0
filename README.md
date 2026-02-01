@@ -37,24 +37,39 @@
 
 ## 📊 GitHub Analytics
 
-<img src="https://github-readme-stats.vercel.app/api?username=kiy0w0&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff" alt="GitHub Stats" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiy0w0&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" alt="Top Languages" height="180"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Kiy0w0&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&rank_icon=github" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kiy0w0&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" height="180"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiy0w0&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiy0w0&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="180"/>
+</picture>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=kiy0w0&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" alt="GitHub Streak" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Kiy0w0&theme=dark&hide_border=true&background=0D1117" />
+  <img src="https://streak-stats.demolab.com?user=Kiy0w0&theme=dark&hide_border=true" alt="GitHub Streak" />
+</picture>
 
 ---
 
 ## 🏆 Achievements
 
-<img src="https://github-profile-trophy.vercel.app/?username=kiy0w0&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Kiy0w0&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Kiy0w0&theme=darkhub&no-frame=true&no-bg=true&column=4" alt="GitHub Trophies" />
+</picture>
 
 ---
 
 ## 📈 Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kiy0w0&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=1a1a1a&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Kiy0w0&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=1a1a1a&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kiy0w0&theme=github-dark&hide_border=true" alt="Contribution Graph" width="100%"/>
+</picture>
 
 ---
 
@@ -82,7 +97,7 @@
 
 <br/><br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20is%20poetry%20written%20in%20logic.&author=Kiy0w0" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20stan%20Minju%20from%20IZ*ONE&author=Kiy0w0" alt="Quote"/>
 
 <br/>
 
