@@ -11,7 +11,7 @@
 
 ---
 
-## � Languages
+##  Languages
 
 <img src="https://skillicons.dev/icons?i=dart,cpp,go,rust,js,ts,php,python,html,css&theme=dark" alt="Languages" />
 
@@ -23,7 +23,7 @@
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🛠️ Tools
 
 <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,linux,figma,postman,firebase,supabase,vercel&theme=dark" alt="Tools" />
 
