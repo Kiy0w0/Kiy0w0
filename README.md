@@ -44,6 +44,23 @@
 
 <br/>
 
+<details>
+  <summary><b>🎵 My Favorites</b></summary>
+
+  <br/>
+
+  🎵 [**QWER** - 고민중독 (Gomin Jungdok)](https://www.youtube.com/watch?v=ImuWa3SJulY)<br/>
+  🎵 [**EVERGLOW** - 봉봉쇼콜라 (Bon Bon Chocolat)](https://www.youtube.com/watch?v=HvGql8HwOIM)<br/>
+  🎵 [**fromis_9** - WE GO](https://www.youtube.com/watch?v=HM6UpQZvbhY)<br/>
+  🎵 [**IVE** - I AM](https://www.youtube.com/watch?v=6ZUIwj3FgUY)<br/>
+  <br/>
+  🎧 [**OvOliner** on Last.fm](https://www.last.fm/user/OvOliner)
+
+  <br/>
+</details>
+
+<br/>
+
 ### 🔗 Connect With Me
 
 <div align="center">
