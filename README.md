@@ -13,7 +13,7 @@
     <img align="right" src="https://lanyard-profile-readme.vercel.app/api/586802340607164417?bg=00000000" alt="Discord Presence" />
   </a>
 
-  -  I’m currently working on **[chodan.dev](http://chodan.dev)** and various open-source projects.
+  -  I’m currently working on **[kuromi.foo](http://kuromi.foo)** and various open-source projects.
   -  My expertise spans across **Python, C++, TypeScript, and Go**.
   -  Top Projects: **[OwO Mizu](https://github.com/Kiy0w0/owomizu)** (Advanced Auto-Farming Bot) & **[Kernel MMI](https://github.com/Kiy0w0/kernel-mmi)** (Manual Map Injector).
   -  Based in: **Denpasar** (UTC +09:00).
@@ -65,8 +65,8 @@
 
 <div align="center">
 
-<a href="https://chodan.dev">
-  <img src="https://img.shields.io/badge/Website-chodan.dev-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+<a href="https://kuromi.foo">
+  <img src="https://img.shields.io/badge/Website-kuromi.foo-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
 </a>
 <a href="https://discord.com/users/586802340607164417">
   <img src="https://img.shields.io/badge/Discord-Luajitt-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
