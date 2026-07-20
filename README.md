@@ -17,7 +17,7 @@
   -  My expertise spans across **Python, C++, TypeScript, and Go**.
   -  Top Projects: **[OwO Mizu](https://github.com/Kiy0w0/owomizu)** (Advanced Auto-Farming Bot) & **[Kernel MMI](https://github.com/Kiy0w0/kernel-mmi)** (Manual Map Injector).
   -  Based in: **Denpasar** (UTC +09:00).
-  -  Contact me at: **[networkmizu@email.com](mailto:networkmizu@email.com)**
+  -  Contact me at: **[networkmizu@email.com](mailto:networkmizu@gmail.com)**
 
   <br/>
 </details>
