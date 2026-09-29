@@ -13,7 +13,7 @@
     <img align="right" src="https://lanyard-profile-readme.vercel.app/api/586802340607164417?bg=00000000" alt="Discord Presence" />
   </a>
 
-  -  I’m currently working on **[kuromi.foo](http://miu.codes)** and various open-source projects.
+  -  I’m currently working on **[miu.codes](http://miu.codes)** and various open-source projects.
   -  My expertise spans across **Python, C++, TypeScript, and Go**.
   -  Top Projects: **[OwO Mizu](https://github.com/Kiy0w0/owomizu)** (Advanced Auto-Farming Bot) & **[Kernel MMI](https://github.com/Kiy0w0/kernel-mmi)** (Manual Map Injector).
   -  Based in: **Denpasar** (UTC +09:00).
